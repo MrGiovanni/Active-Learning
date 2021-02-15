@@ -28,8 +28,7 @@ If you use this code for your research, please cite our [paper](http://openacces
 @article{zhou2018active,
   title={Active, Continual Fine Tuning of Convolutional Neural Networks for Reducing Annotation Efforts},
   author={Zhou, Zongwei and Shin, Jae Y and Gurudu, Suryakanth R and Gotway, Michael B and Liang, Jianming},
-  journal={arXiv e-prints},
-  pages={arXiv--1802},
+  journal={arXiv preprint arXiv:1802.00912},
   year={2018}
 }
 ```
