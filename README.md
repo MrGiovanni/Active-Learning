@@ -1,7 +1,7 @@
 ## Paper
 This repository provides the official Matlab demo for the following paper:
 
-<b>Fine-tuning convolutional neural networks for biomedical image analysis: actively and incrementally</b> <br/>
+<b>Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally</b> <br/>
 [Zongwei Zhou](https://www.zongweiz.com/)<sup>1</sup>, Jae Shin<sup>1</sup>, Lei Zhang<sup>1</sup>, Suryakanth Gurudu<sup>2</sup>, [Michael B. Gotway](https://www.mayoclinic.org/biographies/gotway-michael-b-m-d/bio-20055566)<sup>2</sup>, and [Jianming Liang](https://chs.asu.edu/jianming-liang)<sup>1</sup> <br/>
 <sup>1 </sup>Arizona State University,   <sup>2 </sup>Mayo Clinic <br/>
 The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017  <br/>
