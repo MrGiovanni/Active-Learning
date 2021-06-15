@@ -31,6 +31,13 @@ If you use this code for your research, please cite our [paper](http://openacces
   journal={arXiv preprint arXiv:1802.00912},
   year={2018}
 }
+
+@phdthesis{zhou2021towards,
+  title={Towards Annotation-Efficient Deep Learning for Computer-Aided Diagnosis},
+  author={Zhou, Zongwei},
+  year={2021},
+  school={Arizona State University}
+}
 ```
 
 ## Acknowledgement
